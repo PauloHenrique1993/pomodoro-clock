@@ -1,4 +1,4 @@
-# PomodoroClock
+# Pomodoro-Clock
 
 Criando um relogio pomodoro em javascript, para aprendizado da linguagem.
 
