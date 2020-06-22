@@ -2,7 +2,7 @@
 
 Criando um relogio pomodoro em javascript, para aprendizado da linguagem.
 
-A ideia foi gerada partir de um video do youtube, onde foi listado um github com varias ideias para aprender a linguagem js, que estão classificados em iniciante, intermediario e avançado.
+A ideia foi gerada partir de um video do youtube, onde foi listado um github com varias ideias para aprender js (com possivel aplicação a outras linguagens), e estão classificadas em iniciante, intermediario e avançado.
 
 # Dentro do repositorio tem algumas Use Stories.
 - O usuário pode ver um cronômetro por 25 minutos - a sessão de trabalho
